@@ -11,7 +11,7 @@ entries:
     description: HELM chart that provide everything needed to create a multi pod application.
     name: application
     urls:
-    - https://github.com/saimonn/helm-application/application-2.19.0.tgz
+    - https://saimonn.github.io/helm-application/application-2.19.0.tgz
     version: 2.19.0
   - apiVersion: v2
     appVersion: "1.0"
